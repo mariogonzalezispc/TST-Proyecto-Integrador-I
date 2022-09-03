@@ -19,7 +19,7 @@ Node-RED instalado en ARMBian y sirviendo puerto 2022.<br>
 DNS : mgalarmasserver1.ddns.net:2022 <br>
 Pass: ispca1g6<br>
 
-<strong>Direccion de descarga APP</strong> >br>
+<strong>Direccion de descarga APP</strong> <br>
 DNS : mgalarmasserver1.ddns.net:8081 <br>
 
 
