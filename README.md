@@ -13,7 +13,7 @@ Javascript.<br>
 Incluye libreria de javascript para MQTT.<br>
 Broker MQTT Mosquitto V3.1 alojado en sistema embebido Orange PI,<br>
 con sistema operativo ARMBian server. Basado en Debian 9.<br>
-Node-RED instalado en ARMBian y sirviendo puerto 2022.<br>
+Node-RED instalado en ARMBian y sirviendo puerto 2023.<br>
 
 <strong>Broker MQTT</strong> <br>
 DNS : mgalarmasserver1.ddns.net:2022 <br>
@@ -22,4 +22,6 @@ Pass: ispca1g6<br>
 <strong>Direccion de descarga APP</strong> <br>
 DNS : mgalarmasserver1.ddns.net:8081 <br>
 
+<strong>Direccion Dashboard Node-RED</strong> <br>
+DNS : mgalarmasserver1.ddns.net:2023 <br>
 
