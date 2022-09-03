@@ -9,7 +9,7 @@ Cohorte 2022 <br>
 Se desarrolla aplicacion en lenguaje <br>
 HTML5, <br>
 CCS3 y <br>
-Javascript.<br>
+Javascript(PWA).<br>
 Incluye libreria de javascript para MQTT.<br>
 Broker MQTT Mosquitto V3.1 alojado en sistema embebido Orange PI,<br>
 con sistema operativo ARMBian server. Basado en Debian 9.<br>
