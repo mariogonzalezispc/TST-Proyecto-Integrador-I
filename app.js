@@ -63,14 +63,14 @@ function pi_i() {
                     "height: 100%;" +
                     "user-select: none;" +
                     "align-items: center;" +
-                    "font-size: 18px;" +
+                    "font-size: 14px;" +
                     "text-align: center;" +
                     "line-height: 60px;" +
                     "font-weight: bold;" +
                     "justify-content: center;" +
                     "background-color: transparent;";
                 label1.setAttribute('style', parametros5label); //carga los estilos del label
-                label1.innerHTML = "ISPC TST Proyecto Integrados TP_1";
+                label1.innerHTML = "ISPC TST Proyecto Integrador TP_1";
                 teclado.appendChild(label1); //este inserta el label en el button 
 
                 /*-----------------------------------------------------------------*/
