@@ -70,9 +70,62 @@ function pi_i(){
             label1.innerHTML = "ISPC TST Proyecto Integrados TP_1";
             teclado.appendChild(label1); //este inserta el label en el button 
 
+            /*-----------------------------------------------------------------*/
+            /* Creamos div de las teclas de la app e insertamos en el DOM */
+            /*-----------------------------------------------------------------*/
+            const led1 = document.createElement('div'); //creamos div
+            led1.id = 'led1'; //establecemos el id del div
+            led1.className = 'led1'; //establecemos la clase del div para uso futuro
+            let parametros_led1 = //establecemos los parametros aspectos del div
+                "position: absolute;" +
+                "top: 15%;" +
+                "left: 55%;" +
+                "width: 9%;" +
+                "height: 6%;" +
+                "align-items: center;" +
+                "background-color: gray;" +
+                "border-radius: 50%;" +
+                "border: 2px solid black;";
+            led1.setAttribute('style', parametros_led1); //carga los estilos de los elementos
+            fondo.appendChild(led1); //este inserta el display en el body del HTML 
 
+            /*-----------------------------------------------------------------*/
+            /* Creamos div de las teclas de la app e insertamos en el DOM */
+            /*-----------------------------------------------------------------*/
+            const botonA = document.createElement('div'); //creamos div
+            botonA.id = 'botonA'; //establecemos el id del div
+            botonA.className = 'botonA'; //establecemos la clase del div para uso futuro
+            let parametros_botonA = //establecemos los parametros aspectos del div
+                "position: relative;" +
+                "top: 10%;" +
+                "left: 10%;" +
+                "width: 5rem;" +
+                "height: 3rem;" +
+                "align-items: center;" +
+                "background-color: red;" +
+                "content: '';" +
+                "display: inline-block;" ;
+            botonA.setAttribute('style', parametros_botonA); //carga los estilos de los elementos
+            fondo.appendChild(botonA); //este inserta el display en el body del HTML 
 
-
+            /*-----------------------------------------------------------------*/
+            /* Creamos div de las teclas de la app e insertamos en el DOM */
+            /*-----------------------------------------------------------------*/
+            const labelA = document.createElement('label'); //creamos div
+            labelA.id = 'labelA'; //establecemos el id del div
+            labelA.className = 'labelA'; //establecemos la clase del div para uso futuro
+            let parametros_labelA = //establecemos los parametros aspectos del div
+                "position: relative;" +
+                "top: 10%;" +
+                "left: 10%;" +
+                "width: 5rem;" +
+                "height: 3rem;" +
+                "align-items: center;" +
+                "background-color: white;" +
+                "content: '';" +
+                "display: inline-block;" ;
+            labelA.setAttribute('style', parametros_labelA); //carga los estilos de los elementos
+            fondo.appendChild(labelA); //este inserta el display en el body del HTML 
 
 
 
