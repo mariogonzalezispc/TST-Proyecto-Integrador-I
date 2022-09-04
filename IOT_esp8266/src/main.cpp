@@ -26,7 +26,7 @@ bool Valor_anterior1=false;
 void setup() {
   pinMode(0,OUTPUT);
   pinMode(2,OUTPUT);
-  pinMode(4,INPUT);//Llave Combinada
+  pinMode(4,INPUT);//Llave 
   digitalWrite(0,0); //Rele 
   pinMode(5,OUTPUT); //Pin Led Amarillo del Link
   digitalWrite(5,LOW); //
