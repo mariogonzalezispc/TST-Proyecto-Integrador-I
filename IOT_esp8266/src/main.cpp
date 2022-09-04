@@ -2,17 +2,8 @@
 #include <ESP8266WiFiMulti.h>
 #include <PubSubClient.h>
 
-//const char* ssid = "MG Alarmas";
-//const char* password = "mgalarmas2319";
-
-//const char* ssid = "TP-LINK_B33E";
-//const char* password = "50868155";
-
-const char* ssid = "IOT-Service";
-const char* password = "casamaldonado";
-
-const char* mqtt_server = "192.168.1.40";
-//const char* mqtt_server = "casaiot.ddns.net";
+const char* ssid = "TP-LINK_B33E";
+const char* password = "50868155";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
@@ -66,7 +57,7 @@ void setup_wifi() {
 void reconnect() {
   while (!client.connected()) {
     Tecla();
-    String clientId = "Luz-Living1";
+    String clientId = "Luz-TST";
     clientId += String(random(0xffff), HEX);
      if (client.connect(clientId.c_str())){
       Led_off();
