@@ -60,7 +60,7 @@ function pi_i(){
             "height: 100%;" +
             "user-select: none;" +
             "align-items: center;" +
-            "font-size: 14px;" +
+            "font-size: 18px;" +
             "text-align: center;" +
             "line-height: 60px;" +
             "font-weight: bold;" +
@@ -97,7 +97,7 @@ function pi_i(){
             botonA.className = 'botonA'; //establecemos la clase del div para uso futuro
             let parametros_botonA = //establecemos los parametros aspectos del div
                 "position: relative;" +
-                "top: 10%;" +
+                "top: 13%;" +
                 "left: 10%;" +
                 "width: 5rem;" +
                 "height: 3rem;" +
@@ -116,7 +116,7 @@ function pi_i(){
             labelA.className = 'labelA'; //establecemos la clase del div para uso futuro
             let parametros_labelA = //establecemos los parametros aspectos del div
                 "position: relative;" +
-                "top: 10%;" +
+                "top: 13%;" +
                 "left: 10%;" +
                 "width: 5rem;" +
                 "height: 3rem;" +
