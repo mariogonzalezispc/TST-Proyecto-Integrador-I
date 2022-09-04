@@ -2,9 +2,9 @@
 TST Proyecto integrador App para encender Luz a distancia
 Fecha  02-09-2022
 
-Materia telecomunicaciones <br>
-Proyecto Integrador <br>
-Alumno Mario Gonzalez <br>
+Instituto Superior Politecnico Cordoba <br>
+Materia Telecomunicaciones Proyecto Integrador <br>
+Alumno Mario Alejandro Gonzalez <br>
 Cohorte 2022 <br>
 
 
