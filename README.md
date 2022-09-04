@@ -6,6 +6,12 @@ Proyecto Integrador <br>
 Alumno Mario Gonzalez <br>
 Cohorte 2022 <br>
 
+
+Placa de pruebas diseñada en plataforma EASYEDA
+
+
+
+
 Se desarrolla aplicacion en lenguaje <br>
 HTML5, <br>
 CCS3 y <br>
