@@ -20,7 +20,7 @@ DNS : mgalarmasserver1.ddns.net:2022 <br>
 Pass: ispca1g6<br>
 
 <strong>Direccion de descarga APP</strong> <br>
-DNS : mgalarmasserver1.ddns.net:8081 <br>
+DNS : https://mariogonzalezispc.github.io/TST-Proyecto-Integrador-I/ <br>
 
 <strong>Direccion Dashboard Node-RED</strong> <br>
 DNS : mgalarmasserver1.ddns.net:2023 <br>
