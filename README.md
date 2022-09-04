@@ -8,15 +8,15 @@ Alumno Mario Alejandro Gonzalez <br>
 Cohorte 2022 <br>
 
 
-Placa de pruebas diseñada en plataforma EASYEDA
-Se realiza un proyecto basado en WEMOS D1 ya que cuenta con el terminal USB
-integrado en forma fisica.
-En cuanto a la placa electronica 
-Tension: 5v. 
-Consumo Stand BY: 3mA.
-Consumo TX: 300ma en pico.
-Rele: 5v 
-Carga de rele: 250VAC 10Amp.
+Placa de pruebas diseñada en plataforma EASYEDA <br>
+Se realiza un proyecto basado en WEMOS D1 ya que cuenta con el terminal USB <br>
+integrado en forma fisica. <br>
+En cuanto a la placa electronica <br>
+Tension: 5v. <br>
+Consumo Stand BY: 3mA.<br>
+Consumo TX: 300ma en pico.<br>
+Rele: 5v. <br>
+Carga de rele: 250VAC 10Amp. <br>
 
 
 
