@@ -29,6 +29,8 @@ Luego sobre la misma plataforma libre de EASYEDA se encargaron 10 unidades de pr
 ![IMG_20220904_124003399](https://user-images.githubusercontent.com/76626141/188323555-a2d18f83-e3ee-487e-b614-d2750ca6aac5.jpg)
 ![IMG_20220904_124159940](https://user-images.githubusercontent.com/76626141/188323558-321afaa0-e08b-4492-b1d9-8e7169a50fec.jpg)
 ![IMG_20220904_124317599](https://user-images.githubusercontent.com/76626141/188323560-80262c6f-be19-4eac-a52e-69c4fee25a11.jpg)
+![IMG_20220904_134229592](https://user-images.githubusercontent.com/76626141/188325379-5b1779bb-2f03-4762-ac6c-f78f8151645c.jpg)
+![IMG_20220904_140650944](https://user-images.githubusercontent.com/76626141/188325384-12f923c0-6f57-462b-a441-4937588e4bb9.jpg)
 
 
 
