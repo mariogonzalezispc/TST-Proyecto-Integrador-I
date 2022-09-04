@@ -8,6 +8,16 @@ Cohorte 2022 <br>
 
 
 Placa de pruebas diseñada en plataforma EASYEDA
+Se realiza un proyecto basado en WEMOS D1 ya que cuenta con el terminal USB
+integrado en forma fisica.
+En cuanto a la placa electronica 
+Tension: 5v. 
+Consumo Stand BY: 3mA.
+Consumo TX: 300ma en pico.
+Rele: 5v 
+Carga de rele: 250VAC 10Amp.
+
+
 
 ![Easyeda](https://user-images.githubusercontent.com/76626141/188323513-6de5e18f-78e3-46ca-a5f9-253e5ea65d01.png)
 ![Easyeda2](https://user-images.githubusercontent.com/76626141/188323522-2088aa64-e826-4d5a-bbdd-ce78a25ae0f4.png)
