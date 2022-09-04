@@ -21,8 +21,12 @@ Carga de rele: 250VAC 10Amp. <br>
 
 
 ![Easyeda](https://user-images.githubusercontent.com/76626141/188323513-6de5e18f-78e3-46ca-a5f9-253e5ea65d01.png)
-![Easyeda2](https://user-images.githubusercontent.com/76626141/188323522-2088aa64-e826-4d5a-bbdd-ce78a25ae0f4.png)
-![Easyeda3](https://user-images.githubusercontent.com/76626141/188323530-07b5e83c-a7ce-40ee-865e-3ac3f5956e0e.png)
+![Easyeda2](https://user-images.githubusercontent.com/76626141/188325684-0a7f4336-8fd5-41b2-953e-7dcca506c3b6.png)
+![Easyeda3](https://user-images.githubusercontent.com/76626141/188325687-0e3dfa33-eea6-436f-a4fd-04930b36eb65.png)
+
+
+
+
 
 Luego sobre la misma plataforma libre de EASYEDA se encargaron 10 unidades de pruebas
 
