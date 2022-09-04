@@ -24,4 +24,5 @@ DNS : https://mariogonzalezispc.github.io/TST-Proyecto-Integrador-I/ <br>
 
 <strong>Direccion Dashboard Node-RED</strong> <br>
 DNS : mgalarmasserver1.ddns.net:2023 <br>
+Pass: ispca1g6<br>
 
