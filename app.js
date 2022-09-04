@@ -150,3 +150,66 @@ function pi_i() {
         veo(relleno)
     } catch (error) {}
 }
+
+function datos_RX(){
+
+}
+
+function datos_TX(){
+
+}
+
+
+
+
+
+
+
+
+
+
+const tipo = "200/";
+const IDi = "123456789012/i/";
+const IDa = "123456789012/a/;";
+
+
+var clave = "1234";
+var topic1 = tipo + IDi;
+var topic2 = tipo + IDa;
+var x;
+
+//var client = mqtt.connect("ws://casaiot.ddns.net:9001/mqtt");
+var client = mqtt.connect("ws://mgalarmasserver1.ddns.net:9001/mqtt");
+//var client = mqtt.connect("ws://192.168.0.50:9001/mqtt");
+
+//Si lo usas en hosting para usar encriptado https
+// var client = mqtt.connect("ws://casaiot.ddns.net:8080/mqtt"")
+/*--------------------------------------------------------------------------------------------------------------------*/
+function EventoConectar() {
+    console.log("Conectado a MQTT");
+    client.subscribe(topic2, function (err) {
+        if (!err) {
+            //alert("Conectado al servidor MG Alarmas", "", "success");
+        } else {
+            alert("Error al conectar al servidor MG Alarmas", "", "error");
+        }
+    });
+}
+/*----------------------------------------------------------------------------------------------------------------------*/
+function txMensaje(topic, message) {
+    let mensaje = message.toString();
+    client.publish(topic, mensaje); // //   
+}
+
+function EventoMensaje(topic, message) {
+    var mensaje = message.toString();
+    let sepa = ";";
+    var evento_recibido = mensaje.split(sepa);
+}
+
+client.on("connect", EventoConectar);
+client.on("message", EventoMensaje);
+console.log("Empezando a conectar");
+client.on('connect', function () {
+    console.log('connected!');
+});
