@@ -46,6 +46,7 @@ function pi_i(){
                 "border: 2px solid black;";
             teclado.setAttribute('style', parametros3); //carga los estilos de los elementos
             fondo.appendChild(teclado); //este inserta el display en el body del HTML 
+            
             /*-----------------------------------------------------------------*/
             /* Creamos titulo de la app e insertamos en el DOM */
             /*-----------------------------------------------------------------*/
