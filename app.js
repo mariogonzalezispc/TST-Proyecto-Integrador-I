@@ -148,6 +148,5 @@ function pi_i() {
         }
         relleno.addListener(veo);
         veo(relleno)
-
     } catch (error) {}
 }

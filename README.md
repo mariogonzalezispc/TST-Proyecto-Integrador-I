@@ -8,7 +8,7 @@ Alumno Mario Alejandro Gonzalez <br>
 Cohorte 2022 <br>
 
 
-Placa de pruebas diseñada en plataforma EASYEDA <br>
+Placa de pruebas diseñada en plataforma EASYEDA. <br>
 Se realiza un proyecto basado en WEMOS D1 ya que cuenta con el terminal USB <br>
 integrado en forma fisica. <br>
 En cuanto a la placa electronica <br>
@@ -39,11 +39,12 @@ Luego sobre la misma plataforma libre de EASYEDA se encargaron 10 unidades de pr
 Se desarrolla aplicacion en lenguaje <br>
 HTML5, <br>
 CCS3 y <br>
-Javascript(PWA).<br>
-Incluye libreria de javascript para MQTT.<br>
+Javascript(PWA). <br>
+Incluye libreria de javascript para MQTT. <br>
 Broker MQTT Mosquitto V3.1 alojado en sistema embebido Orange PI,<br>
-con sistema operativo ARMBian server. Basado en Debian 9.<br>
-Node-RED instalado en ARMBian y sirviendo puerto 2023.<br>
+Sistema operativo ARMBian basado en Debian 9. <br>
+ARMBian server sirviendo puerto 2022. <br>
+Node-RED instalado en ARMBian y sirviendo puerto 2023. <br>
 
 <strong>Broker MQTT</strong> <br>
 DNS : mgalarmasserver1.ddns.net:2022 <br>
