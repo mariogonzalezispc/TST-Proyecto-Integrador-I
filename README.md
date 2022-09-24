@@ -90,4 +90,4 @@ Pass: ispca1g6<br>
 
 
 
-[![Watch the video](/images/content/4279611/690cc1ce1c97ed83c883846f84451ad3.png)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://user-images.githubusercontent.com/76626141/192118938-c9103c1b-db5d-4152-a7e6-528adc0128c2.jpg)](https://youtu.be/HNjAAYG3DOY)
