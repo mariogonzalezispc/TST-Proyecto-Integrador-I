@@ -65,4 +65,40 @@ Pass: ispca1g6<br>
 
 
 
-<a href="https://youtu.be/HNjAAYG3DOY" target="_blank"><img src="https://i.ytimg.com/vi/fRh_vgS2dFE/hqdefault.jpg" width="480" height="360" alt="Video Sorry de Justin Bieber en YouTube"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var player;
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {
+    height: '360',
+    width: '640',
+    videoId: 'M7lc1UVf-VE',
+    events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+    }
+  });
+}
